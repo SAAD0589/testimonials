@@ -1,33 +1,3 @@
-<style>
-    body {
-        background-color: #f3f4f6;
-    }
-
-    .content_form {
-        background: #ffffff
-    }
-
-    input {
-        background-color: #f3f4f6;
-    }
-
-    .bottom {
-        border: 2px solid #f08709;
-        color: #f08709;
-        background-color: #ffffff;
-        font-weight: bold;
-    }
-
-    .bottom:hover {
-        border: 1px solid #f08709;
-        color: #ffffff;
-        background-color: #f08709;
-        transition: 0.5s;
-    }
-    span{
-        color: red;
-    }
-</style>
 <div class="container my-5 ">
     <div class="row justify-content-center my-5">
         <div class="col-xl-7 col-sm-10 content_form py-5">
